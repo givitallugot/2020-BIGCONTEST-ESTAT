@@ -4,7 +4,7 @@
 [presentation-link]: https://youtu.be/32Y5Vtngc-Y?t=5131
 
 
-[image]
+![image-1](./Image/1.jpeg)
 
 ## 사용 데이터
 - SKT 유동인구
