@@ -1,6 +1,6 @@
-# 2020-BIGCONTEST-ESTAT
+# 2020 빅콘테스트 혁신아이디어분야 대상
 
-### 2020 빅콘테스트 혁신아이디어분야 '이스탯'팀 최종 발표 영상 >> [Link][presentation-link]
+### '이스탯'팀 최종 발표 영상 >> [Link][presentation-link]
 [presentation-link]: https://youtu.be/32Y5Vtngc-Y?t=5131
 
 
