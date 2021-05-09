@@ -4,7 +4,8 @@
 
 자세한 발표 내용이 궁금하시다면 링크를 클릭해주세요!
 
-![image-1](./Image/1.jpg)
+# ![image-1](./Image/1.jpg)
+<p align="center"><img src="./Image/1.jpg"></p>
 
 <br>
 
