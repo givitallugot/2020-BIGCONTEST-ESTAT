@@ -10,12 +10,13 @@
 
 **뉴노멀 시대 준비를 위한 서비스 아이디어 및 PoC(Proof Of Concept) 결과 제시**
 
-### 이스탯팀 주제
 '''
 코로나 이후 언택트 상황에 가장 큰 타격을 받은 오프라인 유통업계 상생 방안
-> 유통기한이 짧은 편의점 식품류에 대한 배달 예측 모델링을 통한 효율적인 재고관리를 돕는 서비스 제시
+유통기한이 짧은 편의점 식품류에 대한 배달 예측 모델링을 통한 효율적인 재고관리를 돕는 서비스 제시
 '''
 
+
+### 데이터
 제공 데이터 | 외부 데이터
 ----- | ----- 
 **유동인구데이터(SKT)** | 배달업종별이용통화량(SKT Big Data Hub) 
@@ -24,6 +25,7 @@
 **물류데이터(CJ올리브네트웍스)** | 지상관측자료(기상청 날씨누리)
 **SNS데이터(와이즈넛)** | 서울대기환경정보(cleanair)
 
+### 분석 과정
 #### [1. 프로젝트 소개][1-link]
 
 #### [2. 소비/경제/행동 변화에 따른 사회적 영향 분석][2-link]
@@ -39,7 +41,7 @@ EDA와 POC 결과는 보안상의 이유로 결과를 첨부하지 않았습니�
 ### Collaborator
 
 * 박소연
-* 박정현(@JngHyun)
+* 박정현([@JngHyun][jh-git])
 * 주선미(@givitallugot)
 * 최윤희
 
@@ -49,3 +51,4 @@ EDA와 POC 결과는 보안상의 이유로 결과를 첨부하지 않았습니�
 [3-link]: https://github.com/givitallugot/2020-BIGCONTEST-ESTAT/tree/main/3.%20%EB%B6%84%EC%84%9D%20%EC%97%85%EC%A2%85%20%EC%84%A0%ED%83%9D
 [4-link]: https://github.com/givitallugot/2020-BIGCONTEST-ESTAT/tree/main/5.%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%EB%A7%81
 [5-link]: https://github.com/givitallugot/2020-BIGCONTEST-ESTAT/blob/main/README.md
+[jh-git]: https://github.com/JngHyun
