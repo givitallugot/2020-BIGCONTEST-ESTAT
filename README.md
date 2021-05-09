@@ -39,3 +39,7 @@ EDA와 POC 결과는 보안상의 이유로 결과를 첨부하지 않았습니�
 
 [presentation-link]: https://youtu.be/32Y5Vtngc-Y?t=5131
 [1-link]: https://github.com/givitallugot/2020-BIGCONTEST-ESTAT/tree/main/1.%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%86%8C%EA%B0%9C
+[2-link]: https://github.com/givitallugot/2020-BIGCONTEST-ESTAT/tree/main/2.%20EDA
+[3-link]: https://github.com/givitallugot/2020-BIGCONTEST-ESTAT/tree/main/3.%20%EB%B6%84%EC%84%9D%20%EC%97%85%EC%A2%85%20%EC%84%A0%ED%83%9D
+[4-link]: https://github.com/givitallugot/2020-BIGCONTEST-ESTAT/tree/main/5.%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%EB%A7%81
+[5-link]: https://github.com/givitallugot/2020-BIGCONTEST-ESTAT/README.md
