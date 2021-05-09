@@ -46,7 +46,7 @@
 * 박소연
 * 박정현([@JngHyun][jh-git])
 * 주선미([@givitallugot][sm-git])
-* 최윤희
+* 최윤희([@yunee29])[yh-git]
 
 [presentation-link]: https://youtu.be/32Y5Vtngc-Y?t=5131
 [1-link]: https://github.com/givitallugot/2020-BIGCONTEST-ESTAT/tree/main/1.%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%86%8C%EA%B0%9C
@@ -56,3 +56,4 @@
 [5-link]: https://github.com/givitallugot/2020-BIGCONTEST-ESTAT/blob/main/README.md
 [jh-git]: https://github.com/JngHyun
 [sm-git]: https://github.com/givitallugot
+[yh-git]: https://github.com/yunee29
