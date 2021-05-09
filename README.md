@@ -18,16 +18,17 @@
 **물류데이터(CJ올리브네트웍스)** | 지상관측자료(기상청 날씨누리)
 **SNS데이터(와이즈넛)** | 서울대기환경정보(cleanair)
 
-#### 0. 프로젝트 소개
+#### [1. 프로젝트 소개][1-link]
 
-#### 1. 소비/경제/행동 변화에 따른 사회적 영향 분석
+#### [2. 소비/경제/행동 변화에 따른 사회적 영향 분석][2-link]
 
-#### 2. 영향력이 가장 큰 문제 도출
+#### [3. 영향력이 가장 큰 문제 도출][3-link]
 
-#### 3. 예측 모델링 구축
+#### [4. 예측 모델링 구축][4-link]
 
-#### 4. 서비스 아이디 및 Proof of Concept 결과 제시
+#### [5. 서비스 아이디 및 Proof of Concept 결과 제시]
 
+EDA와 POC 결과는 보안상의 이유로 결과를 첨부하지 않았습니다. 자세한 내용은 발표 링크를 확인해주세요.
 
 ### Collaborator
 
@@ -37,3 +38,4 @@
 * 최윤희
 
 [presentation-link]: https://youtu.be/32Y5Vtngc-Y?t=5131
+[1-link]: https://github.com/givitallugot/2020-BIGCONTEST-ESTAT/tree/main/1.%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%86%8C%EA%B0%9C
