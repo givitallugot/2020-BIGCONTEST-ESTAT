@@ -43,7 +43,7 @@
 
 ## Collaborator
 
-* 박소연
+* 박소연([@innw18][in-git])
 * 박정현([@JngHyun][jh-git])
 * 주선미([@givitallugot][sm-git])
 * 최윤희([@yunee29][yh-git])
@@ -57,3 +57,4 @@
 [jh-git]: https://github.com/JngHyun
 [sm-git]: https://github.com/givitallugot
 [yh-git]: https://github.com/yunee29
+[in-git]: https://github.com/innw18
